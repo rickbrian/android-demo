@@ -1,1 +1,1 @@
-android aidl使用demo的案例
+android demo的案例
